@@ -1,2 +1,2 @@
 # Javascript
-Javascript for learning
+Javascript Programs for learning
